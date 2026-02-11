@@ -1,0 +1,18 @@
+# bitcoin-inscription-indexer
+
+> Attempt to index all inscriptions in the Bitcoin blockchain, including ASCII strings of length >= 20 and media like images. Includes inscription transaction IDs and has deterministic ordering. Previously called: "bitcoin-strings-with-txids".
+
+## Overview
+
+bitcoin-inscription-indexer is an open-source project by nirholas. Attempt to index all inscriptions in the Bitcoin blockchain, including ASCII strings of length >= 20 and media like images. Includes inscription transaction IDs and has deterministic ordering. Previously called: "bitcoin-strings-with-txids".
+
+## Repository
+
+- URL: https://github.com/nirholas/bitcoin-inscription-indexer
+- Language: Python
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.

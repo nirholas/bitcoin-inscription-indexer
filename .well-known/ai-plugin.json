@@ -1,0 +1,16 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "bitcoin-inscription-indexer",
+    "name_for_model": "bitcoin_inscription_indexer",
+    "description_for_human": "Attempt to index all inscriptions in the Bitcoin blockchain, including ASCII strings of length >= 20 and media like images. Includes inscription transaction IDs and has deterministic ordering. Previously called: \"bitcoin-strings-with-txids\".",
+    "description_for_model": "Attempt to index all inscriptions in the Bitcoin blockchain, including ASCII strings of length >= 20 and media like images. Includes inscription transaction IDs and has deterministic ordering. Previously called: \"bitcoin-strings-with-txids\".",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "none"
+    },
+    "logo_url": "https://github.com/nirholas.png",
+    "contact_email": "nirholas@users.noreply.github.com",
+    "legal_info_url": "https://github.com/nirholas/bitcoin-inscription-indexer/blob/main/LICENSE"
+}

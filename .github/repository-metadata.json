@@ -1,0 +1,15 @@
+{
+    "name": "bitcoin-inscription-indexer",
+    "description": "Attempt to index all inscriptions in the Bitcoin blockchain, including ASCII strings of length >= 20 and media like images. Includes inscription transaction IDs and has deterministic ordering. Previously called: \"bitcoin-strings-with-txids\".",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/bitcoin-inscription-indexer",
+    "language": "Python",
+    "topics": [
+        "bitcoin",
+        "inscription",
+        "nirholas",
+        "indexer",
+        "open-source"
+    ]
+}

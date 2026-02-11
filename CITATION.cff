@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use bitcoin-inscription-indexer, please cite it as below."
+type: software
+title: "bitcoin-inscription-indexer"
+abstract: "Attempt to index all inscriptions in the Bitcoin blockchain, including ASCII strings of length >= 20 and media like images. Includes inscription transaction IDs and has deterministic ordering. Previously called: \"bitcoin-strings-with-txids\"."
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/bitcoin-inscription-indexer"
+url: "https://github.com/nirholas/bitcoin-inscription-indexer"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas
